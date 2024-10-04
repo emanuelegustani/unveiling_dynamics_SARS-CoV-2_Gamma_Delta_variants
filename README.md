@@ -1,1 +1,1 @@
-# unveiling_dynamics_of_SARS-CoV-2_gamma_and_delta_waves
+Files regarding the spatial-temporal analyses that were performed to explore the dissemination of SARS-CoV-2 at international, regional, and state levels in Brazil. The findings will be presented in the paper titled: 'Unveiling the Dynamics of SARS-CoV-2 Gamma and Delta Waves in Paraná, Brazil – Delta Displacing a Persistent Gamma through Alternative Routes of Dispersal.'
