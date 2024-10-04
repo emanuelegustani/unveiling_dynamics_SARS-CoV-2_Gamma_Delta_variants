@@ -1,1 +1,1 @@
-# Unveiling_Dynamics_of_SARS-CoV-2_Gamma_and_Delta_Waves
+# unveiling_dynamics_of_SARS-CoV-2_gamma_and_delta_waves
